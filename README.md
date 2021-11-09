@@ -1,0 +1,1 @@
+# session-expiry-after-inactivity-php
